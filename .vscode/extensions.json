@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-vscode.js-debug",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
