@@ -1,6 +1,7 @@
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import type { FC } from 'react';
+import './registerForm.css';
 
 const App: FC<AppProps> = ({ Component, pageProps }) => {
   return (
